@@ -28,4 +28,4 @@ public [visualization_msgs::Marker](http://wiki.ros.org/rviz/Tutorials/Markers%3
 public [visualization_msgs::Marker's points and lines](http://wiki.ros.org/rviz/Tutorials/Markers%3A%20Points%20and%20Lines) which contains an array of geometry_msgs/Point
 <br>![result](https://img-blog.csdn.net/20180525152613816?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTM4MzQ1MjU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
-<br>Thank you for your star!(grinning)
+<br>Thank you for your star! (grinning)
