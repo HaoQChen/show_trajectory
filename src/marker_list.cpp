@@ -121,6 +121,3 @@ int main( int argc, char** argv )
   }
 }
 // %EndTag(FULLTEXT)%
-
-
-nav_msgs/Odometry
