@@ -17,6 +17,8 @@ rosrun show_trajectory by_marker_list
 <br>by_path add **Path**
 <br>by_marker and by_marker_list add **Marker**
 
+and remember to set `Fixed Frame` to **my_frame**
+
 # Three Ways
 ## 1. nav_msgs/Path
 public a [nav_msgs::Path](http://docs.ros.org/api/nav_msgs/html/msg/Path.html) message which contains an array of geometry_msgs/PoseStamped
